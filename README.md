@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Developing applications and projects
 - 🌱 I’m currently learning Python full-stack development,Cloud computing.
 - 💞️ I’m looking to collaborate on Open-source projects or personal development endeavors to solidify my full-stack skills
-- 📫 How to reach me Email:-sangmeshb40@gmail.com
+- 📫 How to reach me Email:- sangmeshb40@gmail.com
 
 - ⚡ Fun fact : I can code in multiple languages, but Python is my current favorite! 
 
